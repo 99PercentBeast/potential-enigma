@@ -4,3 +4,4 @@ def process1():
 
 if __name__ == "__main__":
   process1()
+  print("new process was added eh")
